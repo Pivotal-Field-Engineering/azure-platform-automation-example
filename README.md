@@ -1,6 +1,3 @@
-![](images/title.png)  
-Update: May 9, 2019
-
 ## Introduction
 
 This workshop will walk you through the process of deploying **Pivotal Cloud Foundry (PCF)** on **Microsoft Azure**. We will stand up **Concourse** using **Pivotal Control Plane** and deploy PCF using **Platform Automation**. For complete documentation check out [Pivotal Control Plane](https://control-plane-docs.cfapps.io/)
