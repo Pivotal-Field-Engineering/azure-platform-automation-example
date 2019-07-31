@@ -32,19 +32,19 @@ This workshop will walk you through the process of deploying **Pivotal Cloud Fou
 - Open a terminal window and change to working directory. For documentation, working directory location will be `/Users/dfoley/development/Azure`.
 
 ```bash
-cd /Users/dfoley/development/Azure
+cd {YOUR Working Directory} 
 ```
 
 - Clone workshop repository
 
 ```bash
-git clone https://github.com/dfoleypivotal/azure-platform-automation-example.git
+git clone https://github.com/Pivotal-Field-Engineering/azure-platform-automation-example.git
 ```
 
 - Clone terraforming-azure repository
 
 ```bash
-git clone https://github.com/dfoleypivotal/terraforming-azure.git
+git clone https://github.com/Pivotal-Field-Engineering/terraforming-azure.git
 cd terraforming-azure/terraforming-control-plane/
 ```
 
