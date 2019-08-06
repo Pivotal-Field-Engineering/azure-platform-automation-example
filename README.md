@@ -130,7 +130,7 @@ echo https://"$(terraform output ops_manager_dns)"
 
 ![](images/image11.png)
 
-- Follow the Pivotal documentation [Configuring BOSH Director on Azure](https://docs.pivotal.io/pivotalcf/2-4/om/azure/config-manual.html)
+- Follow the Pivotal documentation [Configuring BOSH Director on Azure](https://docs.pivotal.io/pivotalcf/2-4/om/azure/config-terraform.html)
 
 **Note:** On the *Create Networks Page* only create one network, following the *infrastructure* network guide, and set the *Name* field to **control-plane**
 
