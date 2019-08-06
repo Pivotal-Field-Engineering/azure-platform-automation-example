@@ -1,0 +1,10 @@
+subscription_id = ""
+tenant_id       = ""
+client_id       = ""
+client_secret   = ""
+
+env_name              = "controlplane"
+location              = "WestUS2"
+dns_suffix            = "az.example.org"
+dns_subdomain         = "pcfcontrolplane"
+ops_manager_image_uri = "https://opsmanagerwestus.blob.core.windows.net/images/ops-manager-2.4-build.192.vhd"
