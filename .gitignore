@@ -1,6 +1,10 @@
 terraforming-azure/
 .terraform
 
+# ignore binaries downloaded from internet at runtime
+bin/terraform
+bin/om
+
 # ignore Terraform state files
 control-plane/terraform.output
 control-plane/terraform.tfstate
