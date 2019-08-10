@@ -1,3 +1,7 @@
 terraforming-azure/
-control-plane/terraform.tfvars
 .terraform
+
+# ignore Terraform state files
+control-plane/terraform.output
+control-plane/terraform.tfstate
+control-plane/terraform.tfvars
